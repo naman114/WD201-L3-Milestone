@@ -1,0 +1,11 @@
+{
+  "name": "level-3",
+  "version": "1.0.0",
+  "description": "WD201 Level 3 Milestone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "naman114",
+  "license": "ISC"
+}
